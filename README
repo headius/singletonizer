@@ -1,3 +1,3 @@
 == singletonizer
 
-You should document your project here.
+Simple example library for adding methods to objects without making those objects singletons.
